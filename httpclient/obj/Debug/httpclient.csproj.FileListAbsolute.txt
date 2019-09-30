@@ -13,7 +13,6 @@ E:\VsProjects\httpclient\httpclient\bin\Debug\httpclient.exe
 E:\VsProjects\httpclient\httpclient\bin\Debug\httpclient.pdb
 E:\VsProjects\httpclient\httpclient\bin\Debug\Newtonsoft.Json.dll
 E:\VsProjects\httpclient\httpclient\bin\Debug\Newtonsoft.Json.xml
-E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.csprojAssemblyReference.cache
 E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.csproj.CoreCompileInputs.cache
 E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.csproj.CopyComplete
 E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.exe

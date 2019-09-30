@@ -47,7 +47,7 @@ namespace httpclient
                     client.DefaultRequestHeaders.Accept.Clear();
                     client.DefaultRequestHeaders.Add("user", "xiaoxiao");
                     client.DefaultRequestHeaders.Add("user", "xiaoxiao");
-                    client.DefaultRequestHeaders.Add("RARpath", "http://192.168.1.240:7000/xxx.rar");
+                    client.DefaultRequestHeaders.Add("RARpath", "http://192.168.1.240/x.rar");
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("username/xiaoxiao"));
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("password/#345"));

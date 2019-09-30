@@ -1,0 +1,9 @@
+E:\VsProjects\httpclient\httpclient\bin\Release\httpclient.exe.config
+E:\VsProjects\httpclient\httpclient\bin\Release\httpclient.exe
+E:\VsProjects\httpclient\httpclient\bin\Release\httpclient.pdb
+E:\VsProjects\httpclient\httpclient\bin\Release\Newtonsoft.Json.dll
+E:\VsProjects\httpclient\httpclient\bin\Release\Newtonsoft.Json.xml
+E:\VsProjects\httpclient\httpclient\obj\Release\httpclient.csproj.CoreCompileInputs.cache
+E:\VsProjects\httpclient\httpclient\obj\Release\httpclient.csproj.CopyComplete
+E:\VsProjects\httpclient\httpclient\obj\Release\httpclient.exe
+E:\VsProjects\httpclient\httpclient\obj\Release\httpclient.pdb
