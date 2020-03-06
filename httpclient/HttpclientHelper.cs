@@ -51,7 +51,7 @@ namespace httpclient
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("username/xiaoxiao"));
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("password/#345"));
-                    HttpResponseMessage response = await client.PostAsync("http://192.168.1.240:7000/", httpContent);
+                    HttpResponseMessage response = await client.PostAsync(url, httpContent);
                     response.EnsureSuccessStatusCode();
                     if (response.IsSuccessStatusCode)
                     {
@@ -62,7 +62,9 @@ namespace httpclient
                 }
                 catch (Exception e)
                 {
+                    Console.WriteLine("log begin");
                     Console.WriteLine(e);
+                    Console.WriteLine("log end");
                 }
             }
         }

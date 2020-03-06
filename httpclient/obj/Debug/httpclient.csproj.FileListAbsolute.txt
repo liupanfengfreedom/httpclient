@@ -17,3 +17,4 @@ E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.csproj.CoreCompileInput
 E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.csproj.CopyComplete
 E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.exe
 E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.pdb
+E:\VsProjects\httpclient\httpclient\obj\Debug\httpclient.csprojAssemblyReference.cache
